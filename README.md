@@ -1,1 +1,1 @@
-This being the first project on TOP, I'm looking to s apply all the knowledge gained so far with minimal reference. From setting up a repository, cloning it to my local files, utilising the CLI comprehensively and efficiently. Let's get to it.# odin-recipes
+This being the first project on TOP, I'm looking to apply all the knowledge gained so far with minimal reference. From setting up a repository, cloning it to my local files, utilising the CLI comprehensively and efficiently. Let's get to it.# odin-recipes
